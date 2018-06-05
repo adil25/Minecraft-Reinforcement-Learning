@@ -19,7 +19,7 @@ You can choose (with an enum) between 3 network types:
 - Convolutional Network
 - LSTM + CNN
 
-![LSTM architecure](https://raw.githubusercontent.com/vincentberaud/Minecraft-Reinforcement-Learning/master/LSTM_Architecture.jpg)
+![LSTM architecure](https://raw.githubusercontent.com/vincentberaud/Minecraft-Reinforcement-Learning/master/LSTM_Architecture.png)
 
 ## DQN settings
 - Implementation of Double Q Learning
